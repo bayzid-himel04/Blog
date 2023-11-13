@@ -6,7 +6,7 @@ export default function SideBar() {
         <div className="sideBarItem">
             <span className="sideBarTitle">ABOUT ME</span>
             <img 
-            src="https://hips.hearstapps.com/hmg-prod/images/alpe-di-siusi-sunrise-with-sassolungo-or-langkofel-royalty-free-image-1623254127.jpg" 
+            src="https://img.freepik.com/free-photo/forest-landscape_71767-127.jpg" 
             alt="" />
             <p>
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Modi similique aspernatur, 
